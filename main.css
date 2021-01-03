@@ -1,0 +1,29 @@
+body {
+	background-image: url(/home/devloper-pratthamesh/Pictures/image.w1456.jpg);
+	background-size: cover;
+}
+
+
+
+
+
+
+.container {
+	background-image: radial-gradient(to left, #00ccff, #b3f0ff);
+}
+h1 { 
+	color:red;
+	text-shadow: 2px 2px 5px black;
+}
+
+h2 {
+	color:blue;
+	text-shadow: 1.5px 1.5px 5px black;
+}
+
+.bord {
+	border-right: 10px solid red;
+}
+
+
+

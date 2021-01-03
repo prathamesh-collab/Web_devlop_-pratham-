@@ -1,0 +1,33 @@
+
+
+h1,h2,h3 { 
+	color:yellow;
+	text-shadow:2px,2px,5px,black;
+}
+
+
+
+h1 {
+	font-family:"Lobster";
+	
+	
+}
+
+h2 {
+	font-family:"Pacifico";
+}
+h3 {
+	font-family:"Yeon+Sung";
+
+}
+
+body {
+	background-image:url(/home/devloper-pratthamesh/Pictures/000548-GooTA-Personal-Portfolio-HTML-Template-PHP-Full-Functional-Application-Previe-PHP-template-for-web-designers.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+
+
+
+    

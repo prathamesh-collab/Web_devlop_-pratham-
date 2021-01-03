@@ -1,0 +1,26 @@
+.container {
+	width: 100%;
+	margin:auto;
+	padding-top:4%;
+	padding-bottom:4%;
+}
+
+#selection-1-gradient {
+	background:#076Dff;
+	background: -webkit-linear-gradient(#076Dff, #65a5ff);
+	background: -moz-linear-gradient(#076Dff, #65a5ff);
+
+}
+
+.row {
+	width: 100%;
+	display:flex;
+	flex-wrap: wrap;
+
+	align-items:center;
+}
+
+.row::after {
+
+
+
